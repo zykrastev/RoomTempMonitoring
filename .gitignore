@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+Firmware/RoomTempMonitorFW/build/
+
+Firmware/RoomTempMonitorFW/.vscode/
+
+Firmware/RoomTempMonitorFW/components/
+
+Firmware/RoomTempMonitorFW/sdkconfig
+
+Firmware/RoomTempMonitorFW/sdkconfig.old
+
+Firmware/.vscode/
